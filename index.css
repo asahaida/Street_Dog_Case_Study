@@ -2,3 +2,17 @@
    color:#fff!important;
    background-color:#2196F3!important
 }
+.w3-blue-grey,.w3-hover-blue-grey:hover,.w3-blue-gray,.w3-hover-blue-gray:hover{
+   color:#fff!important;
+   background-color:#607d8b!important
+}
+[type=search]{
+    -webkit-appearance:textfield;
+    outline-offset:-2px
+}
+ [type=search]::-webkit-search-cancel-button,[type=search]::-webkit-search-decoration{
+    -webkit-appearance:none
+}
+.w3-ul {
+    cursor: pointer;
+  }
